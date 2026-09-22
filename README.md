@@ -2,7 +2,7 @@
 
 Construir a loja virtual Ladyfit de moda fitness feminina para Portugal e Europa com base na imagem de referência anexada. 
 
-Design & Identidade visual:
+Design & Identidade visual: 
 - Paleta inspirada na imagem: fundo claro, azul-marinho profundo (seções de destaque e hero/rodapé), vermelho vibrante nos botões de CTA, toques de amarelo/dourado na barra superior de anúncio.
 - Tipografia forte, geométrica e limpa em caixa alta nos títulos, visual premium/esportivo com bastante respiro (whitespace) e seções amplas.
 - Responsividade mobile-first refinada.
