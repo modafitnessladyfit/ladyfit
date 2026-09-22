@@ -16,7 +16,7 @@ Loja Pública:
 - Página detalhada do produto (PDP): galeria de fotos, seleção de cor e tamanho, indicador de estoque, preço com promoção opcional, descrição e botão 'Adicionar ao Carrinho'.
 - Carrinho lateral funcional (drawer): listagem de itens adicionados, alteração de quantidade, remoção, cálculo de subtotal/total e botão de finalizar compra mock.
 
-Central Administrativa (/admin): 
+Central Administrativa (/admin):
 - Acesso fácil à Central Administrativa (ex: link no rodapé ou cabeçalho).
 - Tabela de Cadastro Simplificado de Produtos em estilo Excel:
   * Cada linha representa uma variante (combinação de Produto + Cor + Tamanho).
