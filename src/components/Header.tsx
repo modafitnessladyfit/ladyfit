@@ -42,7 +42,11 @@ export function Header() {
       <div className="border-b border-border">
         <div className="mx-auto grid max-w-7xl grid-cols-[auto_1fr_auto] items-center gap-4 px-4 py-4 sm:px-6 lg:px-8">
           <Link to="/" className="flex shrink-0 items-center gap-2">
-            <img src="/logo.png" alt="Ladyfit" className="h-10 w-10 sm:h-12 sm:w-12" />
+            <img
+              src={`${import.meta.env.BASE_URL}logo.png`}
+              alt="Ladyfit"
+              className="h-10 w-10 sm:h-12 sm:w-12"
+            />
             <span className="heading-xl text-xl tracking-tight text-navy sm:text-2xl">Ladyfit</span>
           </Link>
 

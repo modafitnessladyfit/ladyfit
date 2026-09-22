@@ -25,7 +25,7 @@ export function Footer() {
       <div className="mx-auto grid max-w-7xl gap-10 px-4 py-16 sm:px-6 md:grid-cols-4 lg:px-8">
         <div>
           <div className="flex items-center gap-2">
-            <img src="/logo.png" alt="Ladyfit" className="h-9 w-9" />
+            <img src={`${import.meta.env.BASE_URL}logo.png`} alt="Ladyfit" className="h-9 w-9" />
             <p className="heading-xl text-xl text-navy">Ladyfit</p>
           </div>
           <p className="mt-4 max-w-xs text-sm text-muted-foreground">
